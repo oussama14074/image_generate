@@ -18,4 +18,4 @@ def generate_image(prompt, output_path="output_image.png"):
 
 # Exemple d'utilisation
 if __name__ == "__main__":
-    generate_image("a cat image")
+    generate_image("a dog image")
